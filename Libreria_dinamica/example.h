@@ -1,0 +1,2 @@
+
+char* etiq(char *fil);
